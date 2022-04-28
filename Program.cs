@@ -7,6 +7,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("First change");
+            Console.WriteLine("Second Change but from GitHub");
         }
     }
 }
